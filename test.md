@@ -29,8 +29,8 @@ An email <bupt.zhaoyu@gmail.com> link.
 Simple inline link <http://www.baidu.com>,
 another inline link [Smaller](http://www.google.com), one more inline link with title [Resize](http://www.163.com).
 
-A [reference style][id] link. Input id, then anywhere in the doc, define the link with corresponding id:
-[id]: http://25.io/mou/ "Markdown editor on Mac OS X"
+A [reference style][1] link. Input id, then anywhere in the doc, define the link with corresponding id.  
+[1]: http://25.io/mou/ "Markdown editor on Mac OS X"
 
 #### Images
 
