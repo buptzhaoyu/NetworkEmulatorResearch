@@ -16,10 +16,9 @@ Like, seriously, a _LOT_ of text
 Inline code are surround by `backtick` key. To create a block code:
     Indent each line by at least 1 tab, or 4 spaces.
     var Test =  exactlyTheAppIwant;
-Odered lists are created using  
-,"1." + Space:
-1. Ordered list item
-2. Ordered list item
+Odered lists are created using, "1." + Space:
+1. Ordered list item  
+2. Ordered list item  
 3. Ordered list item
 >> 这是一个二级引用的事例
 
